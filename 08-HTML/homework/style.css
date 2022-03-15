@@ -1,0 +1,23 @@
+    <style>
+        img.pequeña{height: 400px; width: 600px;}
+        img.pastas{height: 400px;width: 600px;}
+        img.pizza{height: 400px;width: 600px;}
+    </style>
+    <style>
+        #divId{
+        background: rgb(39, 116, 63);
+        }
+    </style>
+    <style>
+        #divId {padding: 50px;
+        }
+    </style>
+    <style>
+        .divClass {font-size:18px;}
+    </style>
+    <style>
+        .divClass {margin: 50px;}
+    </style>
+    <style>
+        #divId {border: 300px solid black;}
+    </style>
